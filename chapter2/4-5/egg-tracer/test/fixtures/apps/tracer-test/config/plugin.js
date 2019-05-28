@@ -1,6 +1,6 @@
 module.exports = {
-    tracer: {
-        enable: true,
-        package: 'egg-tracer'
-    }
+  tracer: {
+    enable: true,
+    package: 'egg-tracer',
+  },
 };
